@@ -11,3 +11,5 @@ https://charity.3scale.net/
 
 PositionStack API to fetch user's current location:
 https://positionstack.com/
+
+Teammates: Alkesh, Anthony Tieu, Thomas Liu
