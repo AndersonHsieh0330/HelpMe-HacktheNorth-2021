@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "HelpMe",
+    "slug": "HelpMe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon1.png",
+    "splash": {
+      "image": "./assets/images/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon1.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
