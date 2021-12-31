@@ -1,4 +1,4 @@
-# HackTheNorth 2021 --HelpMe
+# HelpMe -- HackTheNorth2021
 
 Framework: React-native
 <br />
