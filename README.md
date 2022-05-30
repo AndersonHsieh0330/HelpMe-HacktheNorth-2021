@@ -14,7 +14,7 @@ I was responsible for building the UI and implementing firebase login. Me and my
 **Note: The [WMMA_RESTAPI](https://github.com/AndersonHsieh0330/WMMA_WhereMyMoneyAt_RestAPI) is published on Heroku, but Heroku puts the API to sleep after a certain amount of idle time. Thus the first HTTP request might take longer than usual. Please wait for a little longer or send another GET request to wake up the server, if the respond time appears to be slow.**
 
 
-## WMMA supports:
+## HelpMe supports:
 - Auto fetching user's location
 - Searching nearby charity organizations according to user's location and other information
 
